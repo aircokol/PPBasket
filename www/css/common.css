@@ -1,0 +1,213 @@
+body {
+	padding: 0;
+	margin: 0;
+	background: url(/img/bg.jpg) center top;
+	color: #333;
+}
+
+h1, h2, h3 {
+	margin-bottom: 25px;
+}
+
+header.top-header{
+/* 	height: 250px; */
+	margin: 40px 0 25px;
+}
+div.body{
+  padding-bottom: 30px;
+}
+.top-header .container {
+	padding-top: 10px;
+}
+.top-header .title {
+	text-align: center;
+}
+.title h1{
+	font-size: 60px;
+	line-height: 60px;
+}
+.title .lead{
+	font-size: 30px;
+}
+.phone{
+	font-size: 30px;
+	font-weight: bold;
+	padding: 58px 0 0;
+	line-height: 20px;
+	background: url(/img/phone.png) no-repeat center top;
+}
+.logo img{
+	width: 274px;
+	height: 189px;
+	border: none;
+	border-radius: 20px;
+	box-shadow: 0 0 12px #fff;
+	padding: 4px;
+	background: #fff;
+}
+
+/*
+.logo-header{
+	font-family: 'Rancho', cursive;
+	font-size: 40px;
+	color: #673117;
+	text-shadow: .04em .04em 0 #fff;
+	-webkit-text-shadow: .04em .04em 0 #fff;
+	-moz-text-shadow: .04em .04em 0 #fff;
+	-o-text-shadow: .04em .04em 0 #fff;
+	opacity: .8;
+	line-height: 40px;
+}
+*/
+/* Custom container */
+.container {
+  margin: 0 auto;
+  max-width: 1170px;
+}
+.container hr {
+	margin: 40px 0;
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #fff;
+}
+.thumbnail{
+	background: #fff;
+}
+/* Main marketing message and sign up button */
+.jumbotron {
+  margin: 80px 0;
+  text-align: center;
+}
+.jumbotron h1 {
+  font-size: 100px;
+  line-height: 1;
+}
+.jumbotron .lead {
+  font-size: 24px;
+  line-height: 1.25;
+}
+.jumbotron .btn {
+  font-size: 21px;
+  padding: 14px 24px;
+}
+
+/* Supporting marketing content */
+.marketing {
+  margin: 60px 0;
+}
+.marketing p + h4 {
+  margin-top: 28px;
+}
+
+
+/* Customize the navbar links to be fill the entire space of the .navbar
+.navbar .navbar-inner {
+  padding: 0;
+}
+.navbar .nav {
+  margin: 0;
+  display: table;
+  width: 100%;
+}
+.navbar .nav li {
+  display: table-cell;
+  width: 1%;
+  float: none;
+}
+.navbar .nav li a {
+  font-weight: bold;
+  text-align: center;
+  border-left: 1px solid rgba(255,255,255,.75);
+  border-right: 1px solid rgba(0,0,0,.1);
+}
+.navbar .nav li:first-child a {
+  border-left: 0;
+  border-radius: 3px 0 0 3px;
+}
+.navbar .nav li:last-child a {
+  border-right: 0;
+  border-radius: 0 3px 3px 0;
+}
+.navbar .nav li.active a {
+	border-left: 0;
+}
+*/
+
+  /* CUSTOMIZE THE CAROUSEL
+    -------------------------------------------------- */
+
+/* Carousel base class */
+
+
+.carousel {
+  margin-bottom: 0;
+}
+
+.carousel .container {
+  position: relative;
+  z-index: 9;
+  width: 100%;
+}
+
+.carousel-control {
+	z-index: 10;
+}
+
+.text-score {
+	margin: -5px 0 5px 40px;
+	font-size: 20px;
+	font-weight: bold;
+
+}
+
+.row-fluid .gal-albums-tn{
+	margin-left: 20px;
+}
+
+.row-fluid .gal-albums-tn .thumbnails > li{
+	margin: 5px;
+}
+
+
+
+  /* CUSTOMIZE THE TEAM LIST
+    -------------------------------------------------- */
+
+.team-list{
+
+}
+
+.team-list > li{
+	position: relative;
+}
+.team-list .player-number{
+	font-size: 60px;
+	text-align: center;
+	position: absolute;
+	top: 160px;
+	left: 6px;
+	line-height: 60px;
+	width: 150px;
+}
+
+.team-list a{
+	color: #333;
+}
+
+.team-list .title{
+	margin: 10px 0 12px 0;
+	padding-top: 5px;
+	border-top: 1px solid #ddd;
+	font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
