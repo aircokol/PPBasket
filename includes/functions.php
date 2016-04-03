@@ -12,4 +12,9 @@ function output_mess ( $message ="" ){
 		return "";
 	}	
 }
+
+function FunctionName($value='')
+{
+	return 'hello from Git';
+}
 ?>
